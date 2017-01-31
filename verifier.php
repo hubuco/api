@@ -6,7 +6,7 @@ $api_key = '';
 // email to verify
 $email = '';
 	
-$api_url = 'https://www.hubuco.com/api/v2/?api='.$api_key.'&email='.$email;
+$api_url = 'https://api.hubuco.com/api/v2/?api='.$api_key.'&email='.$email;
 	
 $result = file_get_contents($api_url);
 
