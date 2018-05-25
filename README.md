@@ -1,3 +1,6 @@
+## NEW VERSION - V3 
+To find docs and sample codes for version 3, please visit: https://github.com/hubuco/real-time-email-verification-api-v3
+
 # api
 
 With this verifier.php fiel you can easily verify any email addresses
